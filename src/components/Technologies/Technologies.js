@@ -20,8 +20,9 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world. From
-      Back-end To Design
+      I have worked with two frontend technologies professionally and that is
+      Angular and React. During my leisure hours, I have coded in Java, Node,
+      Next js and tried writing Vue.js.
     </SectionText>
     <List>
       <ListItem>
@@ -31,8 +32,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            Experience with <br />
+            React.js/ Typescript and Angular
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,23 +44,13 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Little experience in <br />
+            Node, Java and Next.js . PostgreSql, MySql and Mongo Db for
+            databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
-        <picture>
-          <DiZend size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            tools like Figma
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
+      <ListItem></ListItem>
     </List>
     <SectionDivider colorAlt />
   </Section>

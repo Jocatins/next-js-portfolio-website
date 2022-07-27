@@ -1,5 +1,4 @@
 import React from "react";
-
 import {
   Section,
   SectionText,
@@ -17,11 +16,14 @@ const Hero = () => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          This is a run down of projects that I have been involved in a team and
-          some solely created and designed by the author
+          This is a brief run down of some of the projects that I have been
+          involved in, either in a team or some solely created and designed by
+          the author.
         </SectionText>
-        <Button onClick={() => (window.location = "https://google.com")}>
-          Learn More
+        <Button
+          onClick={() => (window.location = "https://jocatins-space.web.app/")}
+        >
+          More about the author
         </Button>
       </LeftSection>
     </Section>

@@ -49,14 +49,20 @@ const Header = () => (
         </li>
       </Div2>
       <Div3>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://github.com/Jocatins" target="_blank">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons
+          href="https://www.linkedin.com/in/nicholas-agwah-5621841a3/"
+          target="_blank"
+        >
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
 
-        <SocialIcons href="https://google.com">
+        <SocialIcons
+          href="https://stackoverflow.com/users/13034524/joca"
+          target="_blank"
+        >
           <BsStackOverflow size="3rem" />
         </SocialIcons>
       </Div3>
